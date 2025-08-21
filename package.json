@@ -1,6 +1,6 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
+  "name": "archiorm",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "archiorm": "^1.0.0",
     "express": "^5.1.0",
     "mysql2": "^3.14.3",
     "pg": "^8.16.3",
